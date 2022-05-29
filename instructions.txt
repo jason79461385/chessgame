@@ -1,0 +1,10 @@
+How to play
+Each position on the board is represented by a row number from 1 to 8 and a column alphabet from 'a' to 'h'.
+The player can enter the move by typing:-
+The column alphabet and the row number of the pawn they want to move followed by the column alphabet and the row number of the position they want their pawn to move to.
+For example a2a4 will move the pawn at column 'a', row 2 to position column 'a', row 4.
+spaces in between or capital letters are not accepted.
+At any point in the game the player can enter 'g' or 'G' to give up the game
+At any point in the game the player can enter 'q' to leave the game and then you can choose whether you want to store the data or not
+At any point in the game the player can enter 'r3p1' to viw the step you took
+You should enter the move in 90 seconds or you will lose
